@@ -1,0 +1,105 @@
+
+
+.contenedor-nav {
+        margin-left: 100px;
+        margin-top: 30px;
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+        
+}
+
+.contenedor-nav img {
+    width: 12%;
+    margin-left: 50px;
+}
+
+.lista-nav{
+    width: 300px;
+    height: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;  
+}
+
+a {
+    text-decoration: none;
+    color: #ff3db4;
+    font-size: 1.1em;
+
+}
+.link:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.section-info{    
+    background-color: #f7add9;
+    height: 500px;
+    padding: 50px;
+    margin-top: 15px; 
+}
+
+.foto-perrito {
+    border-radius: 300px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 50px;
+    box-shadow: 0px 2px 14px 2px  #ff3db4;
+
+}
+
+.p-perrito{
+    width:50%;
+    margin-left: 200px;
+}
+
+.buton-section{
+    margin-left: 200px;
+    background-color:#ff3db4;
+    color: white;
+    outline: 0;
+    border: 0;
+    width: 20%;
+    height: 28px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 3px 2px  #ff3db4;
+    
+}
+
+.buton-dos{
+    margin-left: 10px;
+    background-color:#ff3db4;
+    color: white;
+    outline: 0;
+    border: 0;
+    width: 20%;
+    height: 28px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 3px 2px  #ff3db4;
+   
+    
+}
+
+.foto-cartera{
+    display: flex;
+    width: 100%;
+    
+}
+
+.div-1{
+    width: 50%;
+}
+.div-2{
+  width: 10%;
+}
+
+.foto-carterita{
+    width: 410px;
+    margin-top: 20px;
+    box-shadow: 0px 7px 20px 8px  #ff3db4;
+
+    
+}
+    
+
